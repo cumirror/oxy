@@ -35,7 +35,7 @@ import (
 	"net/http"
 
 	log "github.com/sirupsen/logrus"
-	"github.com/vulcand/oxy/utils"
+	"github.com/cumirror/oxy/utils"
 )
 
 const (

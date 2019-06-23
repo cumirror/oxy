@@ -7,7 +7,7 @@ import (
 	"sync"
 
 	log "github.com/sirupsen/logrus"
-	"github.com/vulcand/oxy/utils"
+	"github.com/cumirror/oxy/utils"
 )
 
 // ConnLimiter tracks concurrent connection per token

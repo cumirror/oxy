@@ -7,9 +7,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/vulcand/oxy/forward"
-	"github.com/vulcand/oxy/testutils"
-	"github.com/vulcand/oxy/utils"
+	"github.com/cumirror/oxy/forward"
+	"github.com/cumirror/oxy/testutils"
+	"github.com/cumirror/oxy/utils"
 )
 
 func TestNoServers(t *testing.T) {

@@ -11,7 +11,7 @@ import (
 	"time"
 
 	log "github.com/sirupsen/logrus"
-	"github.com/vulcand/oxy/utils"
+	"github.com/cumirror/oxy/utils"
 )
 
 // Option is a functional option setter for Tracer

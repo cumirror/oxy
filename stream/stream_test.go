@@ -14,8 +14,8 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/vulcand/oxy/forward"
-	"github.com/vulcand/oxy/testutils"
+	"github.com/cumirror/oxy/forward"
+	"github.com/cumirror/oxy/testutils"
 )
 
 type noOpNextHTTPHandler struct{}

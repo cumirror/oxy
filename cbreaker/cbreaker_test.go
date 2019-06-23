@@ -11,8 +11,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/vulcand/oxy/memmetrics"
-	"github.com/vulcand/oxy/testutils"
+	"github.com/cumirror/oxy/memmetrics"
+	"github.com/cumirror/oxy/testutils"
 )
 
 const triggerNetRatio = `NetworkErrorRatio() > 0.5`
